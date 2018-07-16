@@ -1,0 +1,11 @@
+C:\Users\Davidelocal\source\repos\cloning\cloning\obj\Debug\netcoreapp2.0\cloning.csprojAssemblyReference.cache
+C:\Users\Davidelocal\source\repos\cloning\cloning\obj\Debug\netcoreapp2.0\cloning.csproj.CoreCompileInputs.cache
+C:\Users\Davidelocal\source\repos\cloning\cloning\obj\Debug\netcoreapp2.0\cloning.AssemblyInfoInputs.cache
+C:\Users\Davidelocal\source\repos\cloning\cloning\obj\Debug\netcoreapp2.0\cloning.AssemblyInfo.cs
+C:\Users\Davidelocal\source\repos\cloning\cloning\bin\Debug\netcoreapp2.0\cloning.deps.json
+C:\Users\Davidelocal\source\repos\cloning\cloning\bin\Debug\netcoreapp2.0\cloning.runtimeconfig.json
+C:\Users\Davidelocal\source\repos\cloning\cloning\bin\Debug\netcoreapp2.0\cloning.runtimeconfig.dev.json
+C:\Users\Davidelocal\source\repos\cloning\cloning\bin\Debug\netcoreapp2.0\cloning.dll
+C:\Users\Davidelocal\source\repos\cloning\cloning\bin\Debug\netcoreapp2.0\cloning.pdb
+C:\Users\Davidelocal\source\repos\cloning\cloning\obj\Debug\netcoreapp2.0\cloning.dll
+C:\Users\Davidelocal\source\repos\cloning\cloning\obj\Debug\netcoreapp2.0\cloning.pdb
